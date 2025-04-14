@@ -14,9 +14,9 @@ sections:
       - title: Small Business
         price: Starts at $200
         details: per session
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Recommended for: local shops, solo entrepreneurs, or teams under 10
+          looking to get organized.
         features:
           - Comprehensive SOP creation for critical tasks
           - Phased action plan for seamless roll out
