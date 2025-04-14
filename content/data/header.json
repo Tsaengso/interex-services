@@ -42,7 +42,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Who We Are",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
