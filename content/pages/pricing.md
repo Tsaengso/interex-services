@@ -83,7 +83,7 @@ sections:
         features:
           - Everything Included in Small Business Package
           - FREE process improvement revision plan at 1yr
-          - Feature three
+          - Full
           - Feature four
           - Feature five
         image:
