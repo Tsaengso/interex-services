@@ -77,9 +77,9 @@ sections:
       - title: Global Enterprise
         price: Starts at $500
         details: per session
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Recommended for: complex teams or multi-department operations needing
+          strategic alignment, or for teams of about 100+.
         features:
           - Feature one
           - Feature two
