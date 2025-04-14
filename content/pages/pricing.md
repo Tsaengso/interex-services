@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Small Business
         price: Starts at $200
-        details: No credit card required
+        details: per session
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
