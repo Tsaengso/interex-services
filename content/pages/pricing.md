@@ -12,7 +12,7 @@ sections:
     subtitle: We offer a wide range of services to fit your business needs!
     plans:
       - title: Small Business
-        price: Free
+        price: Starts at
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
