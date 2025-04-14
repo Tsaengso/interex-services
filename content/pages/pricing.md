@@ -45,7 +45,7 @@ sections:
         type: PricingPlan
       - title: Industry Leader
         price: Starts at $250
-        details: per month
+        details: per session
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
