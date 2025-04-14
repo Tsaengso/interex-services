@@ -82,7 +82,7 @@ sections:
           strategic alignment, or for teams of about 100+.
         features:
           - Everything Included in Small Business Package
-          - Feature two
+          - FREE process improvement revision plan at 1yr
           - Feature three
           - Feature four
           - Feature five
