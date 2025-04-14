@@ -27,7 +27,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Inquire
-            url: /
+            url: thap@interexcompanies.com
             icon: arrowRight
             iconPosition: right
             style: secondary
