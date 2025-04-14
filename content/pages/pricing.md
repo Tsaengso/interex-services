@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: 'We offer a wide range of services to fit your needs, st'
     plans:
       - title: Developers
         price: Free
