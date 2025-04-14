@@ -47,7 +47,7 @@ sections:
         details: per session
         description: >
           Recommended for: businesses actively scaling or restructuring key
-          workflows.
+          workflows, or teams of about 20-50.
         features:
           - Everything included in Small Business Package
           - Full efficiency audit of 3 core business functions
