@@ -50,7 +50,7 @@ sections:
           accusantium doloremque.
         features:
           - Everything included in Small Business Package
-          - Full
+          - Full efficiency audit of 3 core business functions
           - 3/6/12 month complimentary check ins
           - FREE process improvement revision plan at 1yr
         image:
