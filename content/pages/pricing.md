@@ -83,8 +83,8 @@ sections:
         features:
           - Everything Included in Small Business Package
           - Full efficiency audit of 5 core business functions
-          - FREE process improvement revision plan at 1yr
           - Feature four
+          - FREE process improvement revision plan at 1yr
           - Feature five
         image:
           url: /images/abstract-feature3.svg
