@@ -52,7 +52,7 @@ sections:
           - Comprehensive SOP creation for critical tasks
           - Phased action plan for seamless roll out
           - 3/6/12 month complimentary check ins
-          - Feature four
+          - FREE process improvement revision plan at 1yr
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
