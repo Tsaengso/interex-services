@@ -51,7 +51,7 @@ sections:
         features:
           - Comprehensive SOP creation for critical tasks
           - Phased action plan for seamless roll out
-          - Feature three
+          - 3/6/12 month complimentary check ins
           - Feature four
         image:
           url: /images/abstract-feature2.svg
