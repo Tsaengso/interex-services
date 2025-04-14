@@ -18,7 +18,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - Feature one
+          - Comprehensive SOP creation for critical tasks
           - Feature two
           - Feature three
         image:
