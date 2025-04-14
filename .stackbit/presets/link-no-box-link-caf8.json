@@ -1,0 +1,28 @@
+{
+    "model": "Link",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "no box link",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "link"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Pricing",
+                "altText": null,
+                "url": "/pricing",
+                "showIcon": null,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": null
+            },
+            "thumbnail": "images/link-no-box-link-caf8.png"
+        }
+    ]
+}
