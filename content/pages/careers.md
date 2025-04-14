@@ -84,7 +84,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      There are no open roles available at this time. If you'd like us to retain
+      your information for future roles, please send us an email at
+      recruitment@interexcompanies.com
     items:
       - title: Account Executive
         subtitle: Sales
