@@ -49,7 +49,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - Comprehensive SOP creation for critical tasks
+          - Everything included in Small Business Package
           - Phased action plan for seamless roll out
           - 3/6/12 month complimentary check ins
           - FREE process improvement revision plan at 1yr
