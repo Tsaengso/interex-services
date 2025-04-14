@@ -1,15 +1,24 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
+        {
+            "type": "Link",
+            "label": "Home",
+            "url": "/Home",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
+        },
         {
             "label": "Pricing",
             "url": "/pricing",
@@ -19,7 +28,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Services",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -37,11 +46,11 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "About Us",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Who We Are",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -49,7 +58,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "What We Do",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -57,7 +66,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Contact Us",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
