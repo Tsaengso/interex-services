@@ -59,7 +59,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Inquire
-            url: /
+            url: sales@interexcompanies.com
             icon: arrowRight
             iconPosition: right
             style: secondary
