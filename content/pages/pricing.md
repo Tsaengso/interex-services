@@ -51,7 +51,7 @@ sections:
         features:
           - Everything included in Small Business Package
           - Full efficiency audit of 3 core business functions
-          - 3/6/12 month complimentary check ins
+          - Recommended system
           - FREE process improvement revision plan at 1yr
         image:
           url: /images/abstract-feature2.svg
