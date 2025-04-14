@@ -81,7 +81,7 @@ sections:
           Recommended for: complex teams or multi-department operations needing
           strategic alignment, or for teams of about 100+.
         features:
-          - Feature one
+          - Everything Included in Small Business Package
           - Feature two
           - Feature three
           - Feature four
