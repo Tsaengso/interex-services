@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: We offer a wide range of services to fit your business needs!
     plans:
-      - title: Developers
+      - title: Small Business
         price: Free
         details: No credit card required
         description: >-
