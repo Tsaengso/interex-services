@@ -71,7 +71,7 @@
         },
         {
             "type": "Link",
-            "label": "Pricing",
+            "label": "Home",
             "url": "/Home",
             "icon": "arrowRight",
             "iconPosition": "right",
