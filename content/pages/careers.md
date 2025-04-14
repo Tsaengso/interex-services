@@ -86,8 +86,8 @@ sections:
       type: TitleBlock
     subtitle: >-
       There are no open roles available at this time. If you'd like us to retain
-      your information for future roles, please send us an email at
-      recruitment@interexcompanies.com
+      your information for future roles, please send us an email with your
+      resume at recruitment@interexcompanies.com
     items: []
     actions:
       - label: Apply now
