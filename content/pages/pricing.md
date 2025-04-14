@@ -83,7 +83,7 @@ sections:
         features:
           - Everything Included in Small Business Package
           - Full efficiency audit of 5 core business functions
-          - Executive briefing deck with timeline & KPIs
+          - Executive briefing deck with timelines & KPIs
           - Dedicated support for up to 90 days post consult
           - FREE process improvement revision plan at 1yr
         image:
