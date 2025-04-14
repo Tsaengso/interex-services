@@ -29,6 +29,14 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "Home",
+            "url": "/Home",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
+        },
+        {
             "label": "Careers",
             "altText": "Careers page",
             "url": "/careers",
@@ -36,14 +44,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "type": "Link",
-            "label": "Home",
-            "url": "/Home",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary"
         },
         {
             "label": "About Us",
