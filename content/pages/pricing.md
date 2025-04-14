@@ -58,7 +58,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Inquire
             url: /
             icon: arrowRight
             iconPosition: right
