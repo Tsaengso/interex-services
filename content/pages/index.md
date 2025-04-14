@@ -611,7 +611,7 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
-slug: /home
+slug: /
 seo:
   type: Seo
   metaTitle: Home - Demo site
