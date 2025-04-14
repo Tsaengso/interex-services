@@ -18,7 +18,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: /PRICING
+        url: /pricing
         showIcon: false
         icon: arrowRight
         iconPosition: right
