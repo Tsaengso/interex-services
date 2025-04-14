@@ -19,7 +19,7 @@ sections:
           accusantium doloremque.
         features:
           - Comprehensive SOP creation for critical tasks
-          - Feature two
+          - Phased action plan for seamless roll out
           - Feature three
         image:
           url: /images/abstract-feature1.svg
