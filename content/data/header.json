@@ -12,20 +12,20 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Home",
             "url": "/Home",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
+        },
+        {
+            "label": "Pricing",
+            "url": "/pricing",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "Services",
