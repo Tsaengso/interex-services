@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'We offer a wide range of services to fit your needs, st'
+    subtitle: We offer a wide range of services to fit your business needs!
     plans:
       - title: Developers
         price: Free
