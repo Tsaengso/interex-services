@@ -50,7 +50,7 @@ sections:
           accusantium doloremque.
         features:
           - Everything included in Small Business Package
-          - Phased action plan for seamless roll out
+          - Full
           - 3/6/12 month complimentary check ins
           - FREE process improvement revision plan at 1yr
         image:
