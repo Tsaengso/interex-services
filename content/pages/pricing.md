@@ -45,9 +45,9 @@ sections:
       - title: Industry Leader
         price: Starts at $300
         details: per session
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Recommended for: businesses actively scaling or restructuring key
+          workflows.
         features:
           - Everything included in Small Business Package
           - Full efficiency audit of 3 core business functions
